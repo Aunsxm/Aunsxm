@@ -27,10 +27,21 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Aunsxm&bg_color=180,00000000,fea9cb&title_color=ea8690&text_color=ea8690"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aunsxm&layout=compact&bg_color=180,00000000,fea9cb&title_color=ea8690&text_color=ea8690"
-           /> </div> 
-    </div>
+         /> 
+    </div>   
+
     
+## 📝Projects
+
+| **프로젝트 이름**          | **사용 기술**                                  | **주요 내용**                                    | **레파지토리 링크**                             |
+|----------------------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 🎵music_project🎵         | MySQL, DBeaver, JAVA, Mobaxterm      | JDBC를 활용하여 MySQL에 있는 음악 데이터를 CRUD 합니다. | [music_project](https://github.com/Aunsxm/music_project) |
+| 🚗auto_project            | MySQL,DBeaver,Mobaxterm       |  자동차 정비 서비스를 제공하는 가상의 BMW 대리점의 데이터베이스를 기반으로 SQL 정규표현식의 실전 활용법을 학습합니다.  | [auto_project](https://github.com/Aunsxm/auto_project) |
+| 🎇SeoulSight              | Python, MySQL, DBeaver, ElasticSearch, Kibana, Logstash  | 관광객을 위한 서울 관광 특구의 날씨, 인구밀도 등의 정보를 시각화 합니다.  | [SeoulSight](https://github.com/Aunsxm/SeoulSight)     |
+| 💳CardDataAnalysis       |  ElasticSearch, Kibana, Mobaxterm      | 카드사의 실제 소비 데이터를 활용하여, 연령대별 소비 패턴과 회원 등급 분포를 분석하고 시각화합니다. | [CardDataAnalysis](https://github.com/Aunsxm/CardDataAnalysis)|
+
+
+
 
 
 
