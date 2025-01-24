@@ -1,9 +1,9 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3afaf,100:edb38c&height=180&text=Aunsxm's%20Home&animation=&fontColor=ffffff&fontSize=60" />
+<div align= "left">
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello🙋‍♀️ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🏃꾸준히 성장하는 개발자 장수현 입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; font-size: 3em;"> Hello I'm Aunsxm🙋‍♀️ </h2>  
+</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🏃꾸준히 성장하고자 노력하는 개발자 장수현 입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -27,8 +27,9 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Aunsxm&bg_color=180,00000000,fea9cb&title_color=ea8690&text_color=ea8690"
-         /> 
-    </div>   
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aunsxm&layout=compact&bg_color=180,00000000,fea9cb&title_color=ea8690&text_color=ea8690"
+           /> </div> 
+    </div>
 
     
 ## 📝Projects
