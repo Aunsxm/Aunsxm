@@ -40,6 +40,7 @@
 | 🚗auto_project            | MySQL,DBeaver,Mobaxterm       |  자동차 정비 서비스를 제공하는 가상의 BMW 대리점의 데이터베이스를 기반으로 SQL 정규표현식의 실전 활용법을 학습합니다.  | [auto_project](https://github.com/Aunsxm/auto_project) |
 | 🎇SeoulSight              | Python, MySQL, DBeaver, ElasticSearch, Kibana, Logstash  | 관광객을 위한 서울 관광 특구의 날씨, 인구밀도 등의 정보를 시각화 합니다.  | [SeoulSight](https://github.com/Aunsxm/SeoulSight)     |
 | 💳CardDataAnalysis       |  ElasticSearch, Kibana, Mobaxterm      | 카드사의 실제 소비 데이터를 활용하여, 연령대별 소비 패턴과 회원 등급 분포를 분석하고 시각화합니다. | [CardDataAnalysis](https://github.com/Aunsxm/CardDataAnalysis)|
+| 📀 Slack_Alarm_Bot     |   Mobaxterm,MySQL     |nginx 및 MySQL 프로세스의 리소스를 모니터링하고, 임계치를 초과할 경우 Slack으로 자동 알람을 보내는 시스템을 구성하는 과정입니다. |[slack_alarm_bot](https://github.com/DockerMiniProject/slack_alarm_bot) |
 
 
 
