@@ -36,6 +36,7 @@
 
 | **프로젝트 이름**          | **사용 기술**                                  | **주요 내용**                                    | **레파지토리 링크**                             |
 |----------------------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
+|💳 woorepie💳        | PostgreDB, DBeaver, JAVA, Mobaxterm, Redis, Kafka     | 부동산 지분을 토큰화 하여 매수,매도할 수 있는 서비스 플랫폼을 제공합니다. |[woorepie](https://github.com/woorepie) |
 | 🎵music_project🎵         | MySQL, DBeaver, JAVA, Mobaxterm      | JDBC를 활용하여 MySQL에 있는 음악 데이터를 CRUD 합니다. | [music_project](https://github.com/Aunsxm/music_project) |
 | 🚗auto_project            | MySQL,DBeaver,Mobaxterm       |  자동차 정비 서비스를 제공하는 가상의 BMW 대리점의 데이터베이스를 기반으로 SQL 정규표현식의 실전 활용법을 학습합니다.  | [auto_project](https://github.com/Aunsxm/auto_project) |
 | 🎇SeoulSight              | Python, MySQL, DBeaver, ElasticSearch, Kibana, Logstash  | 관광객을 위한 서울 관광 특구의 날씨, 인구밀도 등의 정보를 시각화 합니다.  | [SeoulSight](https://github.com/Aunsxm/SeoulSight)     |
